@@ -47,7 +47,9 @@ EDA involved exploring databases to answer questions, such as:
 1. What is the current stock status?
 2. What is the overall sales trend?
 3. Which products are top sellers?
-4. What are the peak sales periods?
+4. Which products are returned most often and why?
+5. What is the percentage of returned products?
+6. What are the peak sales periods?
 
 
 ### Data Analysis
